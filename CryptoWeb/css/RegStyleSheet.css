@@ -1,0 +1,37 @@
+﻿body{
+    background-image: url('../images/i3.jpg');
+    background-size:cover;
+
+}
+.container{
+   
+    margin:auto;
+
+}
+
+table{
+    width:676px;
+    height:226px;
+    margin:auto;
+    background-color:brown;
+    padding:40px;
+    color:white;
+    font-size:20px;
+    border-radius:10px;
+    padding-left:130px;
+    border:black 1px inset;
+    margin-top:30px;
+}
+#btnReg{
+    transform: scale(0.7);
+    font-size:30px;
+}
+#reg-header {
+    text-align: center;
+    width:630px;
+    font-family:Ebrima;
+    margin:auto;
+    margin-top:39px;
+    background-color: lemonchiffon;
+    color: black;
+}

@@ -1,0 +1,6 @@
+D:\21BCA19\Asp.Net\PracticeWork\CryptoWeb\CryptoWeb\bin\CryptoWeb.dll.config
+D:\21BCA19\Asp.Net\PracticeWork\CryptoWeb\CryptoWeb\bin\CryptoWeb.dll
+D:\21BCA19\Asp.Net\PracticeWork\CryptoWeb\CryptoWeb\bin\CryptoWeb.pdb
+D:\21BCA19\Asp.Net\PracticeWork\CryptoWeb\CryptoWeb\obj\Debug\CryptoWeb.csprojResolveAssemblyReference.cache
+D:\21BCA19\Asp.Net\PracticeWork\CryptoWeb\CryptoWeb\obj\Debug\CryptoWeb.dll
+D:\21BCA19\Asp.Net\PracticeWork\CryptoWeb\CryptoWeb\obj\Debug\CryptoWeb.pdb
